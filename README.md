@@ -11,12 +11,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&card_width=320&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
 -->
 
-<div align="center">
-  <a href="https://github.com/eduardoalmeidaf"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"></a>&nbsp;
-  <a href="https://github.com/eduardoalmeidaf"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5"></a>&nbsp;
+<div align="center" display="inline-block">
+  <a href="https://github.com/eduardoalmeidaf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=transparent&size_weight=0.5&count_weight=0.5">&nbsp;
 </div>
                                             
-</br>
+<br>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Edu-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
@@ -36,4 +37,5 @@
 </div>
 
 ##
+
 ![Snake animation](https://github.com/eduardoalmeidaf/eduardoalmeidaf/blob/output/github-contribution-grid-snake.svg)
