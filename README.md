@@ -1,9 +1,19 @@
 ## Olá! Eu sou o Eduardo Almeida, bem vindo(a) ao meu perfil!
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&card_width=200&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br"/>
-</div>
+<p> Este é um novo prágrafo</p><br>
+
+##
+
+<!--
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&card_width=500&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
+-->
+
+<div style="vertical-align: top; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br" style="margin-right: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoalmeidaf&layout=compact&langs_count=8&card_width=400&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br">
+</div><br>
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Edu-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
@@ -13,8 +23,8 @@
   <img align="center" alt="Edu-terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
   <img align="center" alt="Edu-ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg">
 </div>
-  
-  ##
+
+##
  
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:eduardoalmeida15499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
