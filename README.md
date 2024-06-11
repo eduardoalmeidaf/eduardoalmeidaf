@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Eduardo Almeida, bem vindo(a) ao meu perfil!
 
 <div>
-  <a href="https://github.com/eduardoalmeidaf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&card_width=50&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -24,6 +23,6 @@
   <a href="https://discord.gg/<minhaconta>" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-
+##
 
 ![Snake animation](https://github.com/eduardoalmeidaf/eduardoalmeidaf/blob/output/github-contribution-grid-snake.svg)
