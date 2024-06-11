@@ -7,8 +7,6 @@
 </br>
 </br>
 
-<h2 align="left">Estatísticas do Github::</h2>
-
 <!--
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&card_width=320&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
