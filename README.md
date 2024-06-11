@@ -11,9 +11,17 @@
 
 
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&card_width=320&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
 
 
+
+<h2 align="left">Estatísticas do Github::</h2>
+<div align="center">
+  <a href="https://github.com/AmandaAilin"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=AmandaAilin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
+ <a href="https://github.com/AmandaAilin"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaAilin&layout=compact&langs_count=7&theme=dracula&hide_border=true"></a>&nbsp;
+</div>
+
+                                            
 <div align="center" style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br" style="margin-right: 50px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoalmeidaf&layout=compact&langs_count=8&card_width=320&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br" />
