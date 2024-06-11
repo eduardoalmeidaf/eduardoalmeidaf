@@ -3,9 +3,8 @@
 <p> Este é um novo prágrafo</p><br>
 
 </br>
-</br>
-</br>
-</br>
+
+##
 
 <!--
 [![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
@@ -29,7 +28,7 @@
 </div>
 
 ##
- 
+
 <div align="center" style="display: inline_block"><br>
   <a href = "mailto:eduardoalmeida15499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-almeidafilho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
