@@ -29,12 +29,11 @@
 
 ##
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: inline_block">
   <a href = "mailto:eduardoalmeida15499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-almeidafilho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://medium.com/@eduardoalmeida15499" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
 ##
-
 ![Snake animation](https://github.com/eduardoalmeidaf/eduardoalmeidaf/blob/output/github-contribution-grid-snake.svg)
