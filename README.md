@@ -15,8 +15,8 @@
 -->
 
 <div align="center">
-  <a href="https://github.com/eduardoalmeidaf"><img height="130" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"></a>&nbsp;
-  <a href="https://github.com/eduardoalmeidaf"><img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5"></a>&nbsp;
+  <a href="https://github.com/eduardoalmeidaf"><img height="140em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"></a>&nbsp;
+  <a href="https://github.com/eduardoalmeidaf"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5"></a>&nbsp;
 </div>
                                             
 </br>
