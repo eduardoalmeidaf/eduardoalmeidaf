@@ -1,10 +1,16 @@
 ## Olá! Eu sou o Eduardo Almeida, criador de conteúdo de Cloud e tecnologia!
 
 <div>
-  <a href="https://github.com/eduardoalmeidaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&custom_title=Eduardo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br"/>
+  <a href="https://github.com/eduardoalmeidaf/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br"/>
+  </a>
+  <a href="https://github.com/eduardoalmeidaf/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoalmeidaf&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br&card_width=320"/>
+  </a>
 </div>
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="Edu-gcp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
@@ -24,4 +30,4 @@
 
 </div>
 
-![Snake animation](https://github.com/eduardoalmeidaf/eduardoalmeidaf/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eduardoalmeidaf/eduardoalmeidaf/blob/output/github-contribution-grid-snake.svg)
