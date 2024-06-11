@@ -1,23 +1,25 @@
-## Olá! Eu sou o Eduardo Almeida, bem vindo(a) ao meu perfil!
+## Olá! Sou o Eduardo, bem vindo ao meu perfil.
 
-<p> Este é um novo prágrafo</p><br>
+<img align="right" width="200px" src="https://pngimg.com/uploads/starwars/starwars_PNG62.png">
 
-</br>
-
-##
-
-<!--
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&card_width=320&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br)](https://github.com/eduardoalmeidaf/github-readme-stats)
--->
-
-<div align="center" display="inline-block">
-  <a href="https://github.com/eduardoalmeidaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=transparent&size_weight=0.5&count_weight=0.5">&nbsp;
-</div>
-                                            
+Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, por ende falo espanhol e português brasileiro.<br>
+.<br>
+.<br>
+.<br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+## Estatística do GitHub:
+<div align="center" style="display: inline_block"><br>
+  <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
+ <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=dracula&hide_border=true"></a>&nbsp;
+</div>
+  
+</br>
+</br>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Edu-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
@@ -26,6 +28,7 @@
   <img align="center" alt="Edu-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Edu-terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg">
   <img align="center" alt="Edu-ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg">
+ <img align="center" alt="Amanda-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ##
