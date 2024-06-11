@@ -16,7 +16,7 @@
 
 <div align="center" style="display: inline_block">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&layout=compact&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br" style="margin-right: 50px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoalmeidaf&layout=compact&langs_count=8&card_width=400&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoalmeidaf&layout=compact&langs_count=8&card_width=320&theme=transparent&size_weight=0.5&count_weight=0.5&locale=pt-br" />
 </div>
 
 </br>
