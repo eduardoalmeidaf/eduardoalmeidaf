@@ -11,11 +11,13 @@ Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, 
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## Estatística do GitHub:
 <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
- <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=dracula&hide_border=true"></a>&nbsp;
+  <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false"></a>&nbsp;
+ <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=transparent&hide_border=false"></a>&nbsp;
 </div>
   
 </br>
