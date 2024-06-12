@@ -1,5 +1,5 @@
 # Hello! I'm Eduardo, welcome to my profile.
-My name is Eduardo Almeida and I'm a Cloud Specialist/DevOps engineer. I'm from Brazil, living in Sao Jose dos Campos.  You can find me on [![LinkedIn][1.1]][1], [![Medium][1.2]][2] e [![Gmail][1.3]][3]
+My name is Eduardo Almeida and I'm a Cloud Specialist/DevOps engineer. I'm from Brazil, living in Sao Jose dos Campos.  You can find me on [![LinkedIn][1.1]][2], [![Medium][1.2]][3] e [![Gmail][1.3]][1]
 
 <div align="center" style="display: inline_block">
   <a href = "mailto:eduardoalmeida15499@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
