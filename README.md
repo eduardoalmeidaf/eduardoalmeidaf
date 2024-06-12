@@ -16,7 +16,7 @@ Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, 
 
 ## Estatística do GitHub:
 <div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoalmeidaf&theme=transparent">
+  <img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoalmeidaf&theme=transparent">
 </div>
 
 <br>
