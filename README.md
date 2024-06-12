@@ -61,7 +61,7 @@ A sample of my recent articles:
 
 <!-- icons without padding -->
 [1.1]: https://raw.githubusercontent.com/eduardoalmeidaf/eduardoalmeidaf/main/linkedin-3-16.png
-[1.2]: https://raw.githubusercontent.com/eduardoalmeidaf/eduardoalmeidaf/main/medium1x.png
+[1.2]: https://raw.githubusercontent.com/eduardoalmeidaf/eduardoalmeidaf/main/medium.png
 [1.3]: https://raw.githubusercontent.com/eduardoalmeidaf/eduardoalmeidaf/main/gmail.png
 
 <!-- links to your social media accounts -->
