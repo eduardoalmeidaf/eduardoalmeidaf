@@ -21,7 +21,7 @@ Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, 
 </div>
   
 </br>
-</br>
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Edu-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
