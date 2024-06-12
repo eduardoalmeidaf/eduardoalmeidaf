@@ -15,13 +15,18 @@ Naci em Buenos Aires, Argentina mas atualmente estou morando no Rio de Janeiro, 
 <br>
 
 ## Estatística do GitHub:
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoalmeidaf&theme=transparent">
+</div>
+
+<br>
+
 <div align="center" style="display: inline_block"><br>
-  <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=false"></a>&nbsp;
- <a href="https://github.com/eduardoalmeidaf"><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=transparent&hide_border=false"></a>&nbsp;
+  <a href="https://github.com/eduardoalmeidaf"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardoalmeidaf&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"></a>&nbsp;
+  <a href="https://github.com/eduardoalmeidaf"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalmeidaf&layout=compact&langs_count=7&theme=transparent&hide_border=true"></a>&nbsp;
 </div>
   
 </br>
-
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Edu-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
