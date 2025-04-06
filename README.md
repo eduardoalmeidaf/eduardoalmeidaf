@@ -9,13 +9,14 @@ You can find me on: &nbsp;<a href = "mailto:eduardoalmeida15499@gmail.com" targe
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Medium](https://medium.com/@eduardoalmeida15499).
 
-A sample of my recent articles:
+<img align="right" alt="GIF" src="gif3.gif" width="350"/>
 
-<!-- BLOG-POST-LIST:START
-- [Recent Docker BuildKit Features You&#39;re Missing Out On](https://martinheinz.dev/blog/111)
- BLOG-POST-LIST:END -->
+Here is a list my 10 most recent writings/activitites:
+- [#1 Engenharia de Plataforma: Moldando a TI Moderna.](https://medium.com/@eduardoalmeida15499/engenharia-de-plataforma-desbravando-um-mundo-de-possibilidades-para-o-desenvolvimento-de-software-590404354b2f)
+- [#2 Infraestrutura de TI como Produto: Sua importância nas organizações modernas.](https://medium.com/@eduardoalmeida15499/infraestrutura-de-ti-como-produto-894416cd6c77)
+- [#3 Plataforma Interna de Desenvolvedor: A importância do gerente de produto.](https://medium.com/@eduardoalmeida15499/3-plataforma-interna-de-desenvolvedor-a-import%C3%A2ncia-do-gerente-de-produto-3a6d02dd6458)
+- [#4 Ferramentas para Engenheiros de Plataforma — Parte 1](https://medium.com/@eduardoalmeida15499/4-ferramentas-para-engenheiros-de-plataforma-parte-1-199649c8d5e7)
 
- 
 ## 🔧 Technologies & Tools
 ![Static Badge](https://img.shields.io/badge/Cloud-Azure-blue?style=flat&logo=microsoftazure&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cloud-Google-blue?style=flat&logo=googlecloud&logoColor=white)
@@ -25,9 +26,6 @@ A sample of my recent articles:
 ![Static Badge](https://img.shields.io/badge/Shell-Bash-blue?style=flat&logo=bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Shell-Powershell-blue?style=flat&logo=powershell&logoColor=white)
 <!-- ![Static Badge](https://img.shields.io/badge/Tools-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white) -->
-
-
-
 
 ## &#x1f4c8; GitHub Stats
 <div align="center">
