@@ -9,7 +9,7 @@ You can find me on: &nbsp;<a href = "mailto:eduardoalmeida15499@gmail.com" targe
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Medium](https://medium.com/@eduardoalmeida15499).
 
-<img align="right" alt="GIF" src="gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="gif3.gif" width="300"/>
 
 Here is a list my 10 most recent writings/activitites:
 - [#1 Engenharia de Plataforma: Moldando a TI Moderna.](https://medium.com/@eduardoalmeida15499/engenharia-de-plataforma-desbravando-um-mundo-de-possibilidades-para-o-desenvolvimento-de-software-590404354b2f)
